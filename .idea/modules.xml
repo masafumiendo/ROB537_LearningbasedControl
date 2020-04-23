@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ROB537_LearningbasedControl.iml" filepath="$PROJECT_DIR$/.idea/ROB537_LearningbasedControl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ROB537_LearningbasedControl.iml" filepath="$PROJECT_DIR$/ROB537_LearningbasedControl.iml" />
     </modules>
   </component>
 </project>
